@@ -13,6 +13,9 @@ git push origin HEAD -u
 git tag v1.0.0  
 git push origin v1.0.0  
 
+git pull --rebase origin master  
+
+
 - Git常用命令  
 检查文件状态： git status  
 从现有仓库创建： gitclone   
