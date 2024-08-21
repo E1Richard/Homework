@@ -19,6 +19,6 @@ int main()
     }
     if(int(strme.find(str3))>=0){cout<<a/b<<endl;
     }
-    system("pause");//使用控制台时可以保证不掉线
+    system("pause");
     return 0;
 }
